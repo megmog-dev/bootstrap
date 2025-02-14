@@ -1,2 +1,2 @@
 # bootstrap
-bootstrap practive lection 3
+bootstrap practice lection 3
