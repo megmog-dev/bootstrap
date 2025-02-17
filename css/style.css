@@ -585,7 +585,7 @@ h6 {
 }
 .hero-1 .ml11 .text-wrapper .line1 {
   top: 0;
-  left: 0;
+  left: -10px;
 }
 .hero-1 .ml11 .text-wrapper .letter {
   display: inline-block;
